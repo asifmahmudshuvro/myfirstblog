@@ -1,0 +1,20 @@
+nav > ul > li {
+    display: inline;
+    margin-right: 15px;
+    
+}
+
+nav li >a{
+    text-decoration: none;
+}
+
+footer{
+    font-weight: bold;
+    color: white;
+    background-color: darkgreen;
+    margin-top: 30px;
+    text-align: center;
+}
+figcaption{
+    text-align: center;
+}
